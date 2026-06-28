@@ -1,0 +1,13 @@
+    streamlit
+    pandas
+    numpy
+    scikit-learn
+    joblib
+    seaborn
+    matplotlib    streamlit
+    pandas
+    numpy
+    scikit-learn
+    joblib
+    seaborn
+    matplotlib
